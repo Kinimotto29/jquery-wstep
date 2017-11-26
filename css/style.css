@@ -1,0 +1,25 @@
+.blue-background {
+    background-color: aqua;
+}
+
+ul:hover {
+    font-size: 4em;
+}
+
+#message, #my-message {
+    display: inline-block;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: darkgoldenrod;
+    display: none;
+    position: absolute;
+}
+
+.blue-box {
+    height: 200px;
+    width: 200px;
+    background-color: #1d00ff;
+}
